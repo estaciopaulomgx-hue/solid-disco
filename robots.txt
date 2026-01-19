@@ -1,3 +1,4 @@
-git add robots.txt
-git commit -m "Add robots.txt for SEO"
-git push origin main
+User-agent: *
+Allow: /
+
+Sitemap: https://estaciopaulomgx-hue.github.io/solid-disco/sitemap.xml
